@@ -1,8 +1,6 @@
 <div align="center">
 
-# Marly
-
-[![PyPI version](https://img.shields.io/pypi/v/marly.svg)](https://pypi.org/project/marly/) [![Discord](https://img.shields.io/discord/1273126849261736011.svg?label=Discord&logo=discord)](https://discord.com/channels/1273126849261736011)
+# open-extract
 
 [Features](#-features) • [What is a Schema?](#-what-is-a-schema) • [Use Cases](#-use-cases) • [Getting Started](#-getting-started) • [Documentation](#-documentation)
 
@@ -10,9 +8,7 @@
 
 ---
 
-Marly simplifies the ingestion and processing of unstructured data for those building AI Agents/Agentic Workflows using frameworks such as LangGraph, AG2, and CrewAI.
-
-<img src="https://github.com/noaheggenschwiler/images/blob/main/updated-marly-diagram.png?raw=true" alt="Marly Logo">
+open-extract simplifies the ingestion and processing of unstructured data for those building AI Agents/Agentic Workflows using frameworks such as LangGraph, AG2, and CrewAI.
 
 ---
 
@@ -123,21 +119,4 @@ Once the Marly platform is running you can test it out by trying one of our exam
    ```
 
 ---
-
-## 📚 Documentation
-
-For more detailed information, please refer to our [documentation](https://docs.marly.ai).
-
----
-
-<div align="left">
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](https://docs.marly.ai/contribute/contribute) for more details.
-
-## 📄 License
-
-This project is licensed under the [Elastic License 2.0 (ELv2)](https://www.elastic.co/licensing/elastic-license).
-
 </div>
