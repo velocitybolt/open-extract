@@ -71,18 +71,6 @@ A schema is a set of key-value pairs describing what needs to be extracted from 
 
 ## 🛠️ Getting Started
 
-### Install the Python Package
-
----
-
-To install the python package, run the following command:
-
-```
-pip install marly
-```
-
----
-
 ### Build the Platform
 
 ---
@@ -90,14 +78,14 @@ pip install marly
 To build the platform from source, run the following command:
 
 ```bash
-./start-marly.sh
+./start-oe.sh
 ```
 
 ---
 
 ### Run an example script or notebook
 
-Once the Marly platform is running you can test it out by trying one of our examples
+Once the platform is running you can test it out by trying one of our examples
 
 1. Navigate to the examples folder:
 
