@@ -56,5 +56,6 @@ class CerebrasModel(BaseModel):
             params["response_format"] = response_format
         
         response = self.client.chat.completions.create(**params)
-        
+        if not response.choices or response.choices[0].message is None:
+            raise ValueError("LLM returned empty or filtered response")
         return response.choices[0].message.content
